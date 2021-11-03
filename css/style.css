@@ -1,0 +1,32 @@
+body{
+    font-size:26px;
+}
+div{
+    background-color: darkgray;
+
+} 
+#topo{
+    width:100%;
+    height:100px;
+    float: left;
+}
+#esquerda{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+#centro{
+    widht: 50%;
+    height: 400px;
+    float: left;
+}
+#direita{
+    width: 25%;
+    height: 400px;
+    float: right;
+}
+#rodape{
+    width: 100%;
+    height:100px;
+    float: left;
+}
